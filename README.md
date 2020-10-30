@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pedro Figueroa</h1>
 <h3 align="center">A Wordpress Oriented Website Developer from Argentina</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/pedrofigueroa](https://www.behance.net/pedrofigueroa)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mardelnet&label=Profile%20views&color=0e75b6&style=flat" alt="mardelnet" /> </p>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pedrofigueroa1989/](https://www.linkedin.com/in/pedrofigueroa1989/)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mardelnet" alt="mardelnet" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
