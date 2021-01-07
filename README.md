@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pedro Figueroa</h1>
-<h3 align="center">A Wordpress Oriented Website Developer from Argentina</h3>
+<h1 align="left">Hi 👋, I'm Pedro Figueroa</h1>
+<h3 align="left">A Wordpress Oriented Website Developer from Argentina</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
