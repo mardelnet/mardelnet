@@ -12,7 +12,7 @@ I love geography, astronomy, and philosophy; but my true passion is non-profit o
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pedrofigueroa1989" target="blank">
-  --> Visit my Linkedin's profile.
+  --> Visit my Linkedin profile.
 </a><br>
 <a href="https://www.behance.net/pedrofigueroa" target="blank">
   --> Check my portfolio on Behance.
