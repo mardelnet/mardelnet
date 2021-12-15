@@ -3,7 +3,7 @@
 
 <p>Curious and restless; these are the words that describe me the best.<br>
 
-Since 2009 I've worked as a WordPress Web Developer, I've taken part in different environmental organizations, and I've even had time to study Foreign Trade and languages (English and German, especially).<br>
+Since 2009 I've worked as a WordPress Web Developer, I've taken part in different environmental organizations, and I've study Foreign Trade and languages.<br>
 
 I love geography, astronomy, and philosophy; but my true passion is non-profit organizations. I collaborate with them offering volunteering and free web development.<br>
 
