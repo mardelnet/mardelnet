@@ -15,7 +15,7 @@ My interests include arts, drawing, animal welfare, and environmental protection
 </a>
 </a><br>
 <a href="https://www.instagram.com/pedrofigueroa3970/" target="blank">
-  --> See my drawings on Instagram
+  --> See my drawings on Instagram.
 </a>
 </p>
 
