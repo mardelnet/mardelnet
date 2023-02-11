@@ -18,5 +18,3 @@ My interests include arts, drawing, animal welfare, and environmental protection
   --> See my drawings on Instagram.
 </a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mardelnet&show_icons=true&locale=en&layout=compact" alt="mardelnet" /></p>
