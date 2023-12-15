@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Pedro Figueroa</h1>
-<h3 align="left">A Wordpress Oriented Website Developer from Argentina</h3>
+<h3 align="left">A Headless Wordpress Oriented Website Developer</h3>
 
-Since 2009 I've worked as a WordPress Developer, trying to add real social and ecological value to my profession.<br>
-My interests include arts, drawing, animal welfare, and environmental protection.
+Since 2009 I've worked as a WordPress Developer and most recently as a React and NextJS Dev.
+I always try to add real social and ecological value to my profession, and my interests include arts, drawing, animal welfare, and environmental protection.
 </p>
 
 <h3 align="left">Connect with me:</h3>
